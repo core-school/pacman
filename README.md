@@ -1,0 +1,2 @@
+- https://developer.mozilla.org/es/docs/Web/HTML/Canvas
+- https://developer.mozilla.org/es/docs/Web/API/Path2D
