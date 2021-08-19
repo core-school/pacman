@@ -4,7 +4,7 @@ Hey hey, here's an example of the classic pacman game map developed in canvas. T
 
 **Play it here: https://core-school.github.io/pacman/**
 
-<img src="pacman_v1.png" width="350" >
+<a href="https://core-school.github.io/pacman"><img src="pacman_v1.png" width="350" ></a>
 
 
 ## Tasks
