@@ -1,8 +1,11 @@
-**Play it here: https://core-school.github.io/pacman/**
-
 # Pacman map developed in HTML5 Canvas
 
 Hey hey, here's an example of the classic pacman game map developed in canvas. This is a `WIP`, feel free to submit PRs and check tasks.
+
+**Play it here: https://core-school.github.io/pacman/**
+
+<img src="pacman_v1.png" width="350" >
+
 
 ## Tasks
 
